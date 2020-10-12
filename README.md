@@ -11,7 +11,6 @@
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/DanielSuhett][github]
 - LinkedIn: [https://www.linkedin.com/in/daniel-suhett][LinkedIn]
 - E-mail: danysuhett@hotmail.com
 
