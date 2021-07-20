@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
 
-- 🔭 I'm currently working at Clique Retire from Brazil
+- 🔭 I'm currently working at Haytek from Brazil
 - 🌱 I’m currently learning **GraphQL** and **Software Architecture**
 - ⚙️ Working with: `.js`, `.json`, `.ts`, `.tsx`, `.yml`
 
