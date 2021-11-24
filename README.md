@@ -6,17 +6,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
 
 - 🔭 I'm currently working at Haytek from Brazil
-- 🌱 I’m currently learning **GraphQL** and **Software Architecture**
-- ⚙️ Working with: `.js`, `.json`, `.ts`, `.tsx`, `.yml`
+- 🌱 I’m currently learning **Crypto**
+- ⚙️ Working with: `.js`, `.ts`, `.tsx`, `.py`, `.go`
 
 ### 📬 Get in Touch
 
-- LinkedIn: [https://www.linkedin.com/in/daniel-suhett][LinkedIn]
-- E-mail: danysuhett@hotmail.com
-
-### 📚 Looking for my Resume? E-Mail me!
-
-![Daniel Suhett github stats](https://github-readme-stats.vercel.app/api?username=danielsuhett&show_icons=true&hide_border=true)
+- [LinkedIn](https://www.linkedin.com/in/daniel-suhett)
+- E-mail: danielsuhett99@gmail.com
 
 [github]: https://github.com/DanielSuhett
 [LinkedIn]: https://www.linkedin.com/in/daniel-suhett
