@@ -14,5 +14,9 @@
 - [LinkedIn](https://www.linkedin.com/in/daniel-suhett)
 - E-mail: danielsuhett99@gmail.com
 
+### The kitten icon is an NFT part of [Kittens HD collection](https://kittens.fakeworms.studio/kittens-hd)
+
+
+
 [github]: https://github.com/DanielSuhett
 [LinkedIn]: https://www.linkedin.com/in/daniel-suhett
