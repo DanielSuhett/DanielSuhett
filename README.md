@@ -6,12 +6,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
 
 - 🔭 I'm currently working at Haytek from Brazil
-- 🌱 learning **Crypto** and **Golang**
-- ⚙️ Working with: `.js`, `.ts`, `.tsx`, `.py`, `.go`
+- 🌱 learning **Golang**
+- ⚙️ Working with: `.js`, `.ts`,, `.py`, `.go`
 
 ### 📬 Get in Touch
 
 - E-mail: danielsuhett99@gmail.com
-
-### The kitten icon is an NFT part of [Kittens HD collection](https://kittens.fakeworms.studio/kittens-hd)
 
