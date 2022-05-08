@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working at Haytek from Brazil
 - 🌱 learning **Golang**
-- ⚙️ Working with: `.js`, `.ts`,, `.py`, `.go`
+- ⚙️ Working with: `.js`, `.ts`, `.py`, `.go`
 
 ### 📬 Get in Touch
 
