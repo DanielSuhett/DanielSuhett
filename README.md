@@ -1,13 +1,12 @@
 # Hello, I'm Daniel Suhett 👋
 
-![NodeJS](https://img.shields.io/badge/NodeJS-Expert-green)
-![ReactJS](https://img.shields.io/badge/ReactJS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
+![Go](https://img.shields.io/badge/Go-Expert-cyan)
+![Rust](https://img.shields.io/badge/Rust-Beginner-orange)
 
 - 🔭 I'm currently working at Haytek from Brazil
-- 🌱 learning **Golang**
-- ⚙️ Working with: `.js`, `.ts`, `.py`, `.go`
+- 🌱 learning **Rust and performance**
+- ⚙️ Working with: `.ts`
 
 ### 📬 Get in Touch
 
