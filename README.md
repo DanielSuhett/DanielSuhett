@@ -1,7 +1,7 @@
 # Hello, I'm Daniel Suhett 👋
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
-![Go](https://img.shields.io/badge/Go-Expert-cyan)
+![Go](https://img.shields.io/badge/Go-cyan)
 ![Rust](https://img.shields.io/badge/Rust-Beginner-orange)
 
 - 🔭 I'm currently working at Haytek from Brazil
