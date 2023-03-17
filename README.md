@@ -5,7 +5,7 @@
 ![Rust](https://img.shields.io/badge/Rust-Beginner-orange)
 
 - 🔭 I'm currently working at Haytek from Brazil
-- 🌱 learning **Rust and performance**
+- 🌱 learning **System design, rust and performance**
 - ⚙️ Working with: `.ts`
 
 ### 📬 Get in Touch
