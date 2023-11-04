@@ -1,11 +1,10 @@
 # Hello, I'm Daniel Suhett 👋
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
-![Go](https://img.shields.io/badge/Go-cyan)
-![Rust](https://img.shields.io/badge/Rust-Beginner-orange)
+![Go](https://img.shields.io/badge/Go-Beginner-cyan)
 
 - 🔭 I'm currently working at Haytek from Brazil
-- 🌱 learning **System design, rust and performance**
+- 🌱 learning **System design, go and databases**
 - ⚙️ Working with: `.ts`
 
 ### 📬 Get in Touch
